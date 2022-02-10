@@ -1,0 +1,31 @@
+<html>
+
+	<head>
+
+	<title>Atributos encadeados</title>
+
+	</head>
+
+<body>
+
+	<hr>
+
+	<p align=left>
+
+	<h2><b>Dados pessoais</b></h2>
+
+	<font face="Calibri" size="5" color="#000508">Nome:<br> E-mail:<br></font>
+
+	<hr>
+
+	<h2><b>Dados bancários</b></h2>
+
+	<font face="Calibri" size="5" color="#000508">Banco:<br> Agência:<br> Conta corrente:<br></font>
+
+	<hr>
+
+	</p>
+
+</body>
+
+</html>
