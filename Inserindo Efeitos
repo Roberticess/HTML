@@ -1,0 +1,31 @@
+<html>
+
+	<head>
+
+	<title>Inserindo efeitos</title>
+
+	</head>
+
+<body>
+
+	<p align=left>
+
+	<font face="Verdana" size="3" color="#FF0000">Inserindo efeitos na página <I>web</I></font></p>
+
+	<p>
+
+	Nome:<b> Roberta Lopes Torres</b><br> Data de Nascimento:<U> 27.07.2003</U><br>
+
+
+	<hr>
+
+	Muito legal!	
+
+	<hr>
+
+	</p>
+
+</body>
+
+</html>
+
